@@ -1,0 +1,7 @@
+# these files don't get uploaded to GitHub
+
+# the .env file should technically be listed here as well
+# because you don't want to commit your private keys to Github
+# but since it's just a few of us working in a private repo...nbd 🤷‍♀️
+
+/node_modules
